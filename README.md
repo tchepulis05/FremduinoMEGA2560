@@ -1,3 +1,5 @@
+**This is a Prerelease Version of Fremduino.  This Version has a Large Amount of Bugs/Faults.  It is Recommended to Use the Current Release (v0.2.0)**
+
 The Fremduino MEGA 2560 is a custom microcontroller board based off the Arduino Mega.  Note: this board is not the same size as the genuine Arduino Mega, so most shields will not be compatible.
 
 Features:
