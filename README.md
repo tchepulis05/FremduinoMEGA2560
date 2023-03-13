@@ -7,3 +7,5 @@ Features:
 - Screw Terminal Power Input (5-15VDC)
 - 54 Digital IO Pins
 - 16 Analog Input Pins
+
+In the event the Arduino firmware needs to be reflashed, use the instructions and code in ArduinoISP.ino to complete the flashing process.
